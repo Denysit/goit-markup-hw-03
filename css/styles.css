@@ -229,7 +229,8 @@ height: auto;}
 
  .link-address{display: flex;
             gap: 40px;
-            align-items: center;}
+            align-items: center;
+            padding: 24px 0;}
        
 
 
