@@ -209,8 +209,7 @@ height: auto;}
     padding-left:15px;
     padding-right: 15px;}
 
-.page-header{ padding: 24px 0;
-    border-bottom: 1px solid  #E7E9FC;}
+.page-header{ border-bottom: 1px solid  #E7E9FC;}
 
  .page-header-container{display: flex;
                         align-items: center; }
@@ -223,6 +222,8 @@ height: auto;}
     
  .list-nav{display:flex;
         gap: 40px;}
+
+    .list-menu{padding: 24px 0;}
 
 
  .link-address{display: flex;
