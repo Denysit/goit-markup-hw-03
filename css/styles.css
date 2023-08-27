@@ -221,9 +221,8 @@ height: auto;}
  .logo{margin-right: 76px;}
     
  .list-nav{display:flex;
-        gap: 40px;}
-
-    .list-menu{padding: 24px 0;}
+        gap: 40px;
+        padding: 24px 0;}
 
 
  .link-address{display: flex;
