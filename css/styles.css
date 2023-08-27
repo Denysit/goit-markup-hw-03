@@ -209,11 +209,11 @@ height: auto;}
     padding-left:15px;
     padding-right: 15px;}
 
-.page-header{ border-bottom: 1px solid  #E7E9FC;
-padding: 24px 0;}
+.page-header{ border-bottom: 1px solid  #E7E9FC;}
 
  .page-header-container{display: flex;
-                        align-items: center; }
+                        align-items: center; 
+                        padding: 24px 0;}
 
  .top-nav{display: flex;
         align-items: center;
