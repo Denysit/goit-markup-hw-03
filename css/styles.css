@@ -223,8 +223,7 @@ height: auto;}
  .list-nav{display:flex;
         gap: 40px;}
 
-.list-menu{display: block;
-    padding: 24px 0;}
+.link{padding: 24px 0;}
 
 
  .link-address{display: flex;
