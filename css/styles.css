@@ -216,13 +216,15 @@ height: auto;}
 
  .top-nav{display: flex;
         align-items: center;
-        margin-right: auto;
-        padding: 24px 0;}
+        margin-right: auto;}
 
  .logo{margin-right: 76px;}
     
  .list-nav{display:flex;
         gap: 40px;}
+
+.list-menu{display: block;
+    padding: 24px 0;}
 
 
  .link-address{display: flex;
